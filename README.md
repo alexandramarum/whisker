@@ -36,4 +36,8 @@ Em**bark** on your journey to find the **pur**fect pet with Whisker, our innovat
 
 ## Team
 
-This project was developed in collaboration with three teammates.
+This project was developed in collaboration with three teammates:
+
+- Ella Gonzales
+- Alexandra Marum
+- Ben Chesser
